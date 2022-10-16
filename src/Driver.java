@@ -12,6 +12,7 @@ public class Driver {
 
     private int mainMenu(){
         return ScannerInput.readNextInt("""
+               
                Social Network Menu
                   ---------------------
                   1) Add a Message Post
